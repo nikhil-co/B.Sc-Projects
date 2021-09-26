@@ -1,2 +1,2 @@
 # B.Sc-Projects
-Projects done during Bachelors degree
+Projects done during Bachelors
